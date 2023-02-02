@@ -1,0 +1,42 @@
+[
+    {
+        "Spanish": "hola",
+        "English": "hello"
+    },
+    {
+        "Spanish": "adiós",
+        "English": "goodbye"
+    },
+    {
+        "Spanish": "perro",
+        "English": "dog"
+    },
+    {
+        "Spanish": "gato",
+        "English": "cat"
+    },
+    {
+        "Spanish": "casa",
+        "English": "house"
+    },
+    {
+        "Spanish": "silla",
+        "English": "chair"
+    },
+    {
+        "Spanish": "mesa",
+        "English": "table"
+    },
+    {
+        "Spanish": "libro",
+        "English": "book"
+    },
+    {
+        "Spanish": "computadora",
+        "English": "computer"
+    },
+    {
+        "Spanish": "teléfono",
+        "English": "phone"
+    }
+]
